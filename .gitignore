@@ -1,0 +1,26 @@
+# IntelliJ / Android Studio
+*.iml
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Gradle
+/.gradle/
+/build/
+/app/build/
+.externalNativeBuild/
+.cxx/
+
+# Local configuration
+/local.properties
+
+# Android
+/captures
+*.apk
+*.keystore
+
+# macOS
+.DS_Store
