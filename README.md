@@ -93,15 +93,13 @@ Windows 用户可在系统环境变量中设置 `JAVA_HOME` 指向 JDK 17 安装
 
 ## 🧰 技术支持
 
-问题反馈、缺陷提交与需求建议，请提交 GitHub Issues：
-[https://github.com/android-app-development-course/2025-Autumn-Aberdeen-13-Waynote/issues](https://github.com/android-app-development-course/2025-Autumn-Aberdeen-13-Waynote/issues)
+问题反馈、缺陷提交与需求建议，请提交 [GitHub Issues](https://github.com/android-app-development-course/2025-Autumn-Aberdeen-13-Waynote/issues)。
 
 ---
 
 ## 📄 开源许可证
 
-本项目基于 Apache License 2.0 开源：
-[https://github.com/android-app-development-course/2025-Autumn-Aberdeen-13-Waynote/blob/main/LICENSE](https://github.com/android-app-development-course/2025-Autumn-Aberdeen-13-Waynote/blob/main/LICENSE)
+本项目基于 [Apache License 2.0](https://github.com/android-app-development-course/2025-Autumn-Aberdeen-13-Waynote/blob/main/LICENSE) 开源。
 
 ---
 
